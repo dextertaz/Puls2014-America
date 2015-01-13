@@ -4,6 +4,7 @@ Hostin barato normal
 index.php
 imagenes
 leonidas.jpg
+www.dogecio.com
 
 sistema de control de versiones
 Github
@@ -27,4 +28,3 @@ Repositorio de codigo github (master)
  * experimental 
  * master (servidor.com) repo produccion
 
- 
