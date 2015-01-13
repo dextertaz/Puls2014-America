@@ -1,0 +1,30 @@
+FTP
+Transmision de archivos
+Hostin barato normal
+index.php
+imagenes
+leonidas.jpg
+
+sistema de control de versiones
+Github
+1. Red social de programadores
+2. Web/ Apps
+3. Mucho mas facil
+
+
+Repositorio de codigo github (master)
+
+1. multiples versiones del mismo codigo
+2. cambios delta
+3. histoiroa de cada archivo
+4. multiples personas sobre el mismo archivo
+5. culpa al culpable
+6. ramas (branches)
+
+ * master (github.com ) repo principal
+ * master (disco duro ) repo local
+ * master
+ * experimental 
+ * master (servidor.com) repo produccion
+
+ 
